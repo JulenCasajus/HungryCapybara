@@ -1,0 +1,1 @@
+FondoVerdeM.o: FondoVerdeM.s
