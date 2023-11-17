@@ -1,0 +1,1 @@
+FondoAmarilloM.o: FondoAmarilloM.s

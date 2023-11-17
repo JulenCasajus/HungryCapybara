@@ -1,0 +1,1 @@
+FondoFin.o: FondoFin.s

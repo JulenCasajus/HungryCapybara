@@ -1,0 +1,1 @@
+FondoMorado.o: FondoMorado.s

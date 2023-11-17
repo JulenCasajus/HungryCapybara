@@ -1,0 +1,1 @@
+FondoAmarillo.o: FondoAmarillo.s
