@@ -1,5 +1,5 @@
 # HungryCapybara
-HungryCapybara is a videogame for Nintendo DS I made in my first year of computer engineering. Have fun playing it! There is an easter-egg hiden :)
+HungryCapybara is a video game for Nintendo DS I made in my first year of computer engineering. Have fun playing it! There is an easter-egg hiden :)
 
 The only file you need to download in order to play it is HungryCapybara.nds.
 
